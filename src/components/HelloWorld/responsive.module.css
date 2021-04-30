@@ -1,0 +1,10 @@
+@media (max-width: 800px) {
+  .container {
+    color: green;
+
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+  }
+}
